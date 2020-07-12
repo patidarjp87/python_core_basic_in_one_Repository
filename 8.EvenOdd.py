@@ -1,3 +1,4 @@
+
 n=float(input('enter a number'))
 if n%2==0:
   print("entered no. is even")
