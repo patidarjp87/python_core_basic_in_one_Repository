@@ -1,3 +1,4 @@
+
 '''a=float(input('enter first no.'))
 b=float(input('enter Second no.'))
 c=float(input('enter Third no.'))
