@@ -1,3 +1,4 @@
+
 n= int(input('enter a no.'))
 i=1
 sum=0
