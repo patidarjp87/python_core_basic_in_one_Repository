@@ -1,3 +1,4 @@
+
 n=float(input('enter a no.'))
 if n>0:
     print("you have intered Positive no.")
