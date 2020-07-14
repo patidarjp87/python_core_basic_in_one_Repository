@@ -1,3 +1,4 @@
+
 s1=input("enter a string")
 s2=input("enter a string")
 s3=input("enter a string")
