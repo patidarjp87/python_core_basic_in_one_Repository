@@ -1,3 +1,4 @@
+
 n=int(input("enter a year"))
 if n%400==0:
     print(n,"is a leap year")  
