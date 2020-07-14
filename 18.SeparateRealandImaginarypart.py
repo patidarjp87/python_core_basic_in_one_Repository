@@ -1,3 +1,4 @@
+
 c = input("enter a complex number")
 i=0
 while c[i]!='+':
