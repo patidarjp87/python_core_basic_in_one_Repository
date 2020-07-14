@@ -1,3 +1,4 @@
+
 a=float(input('enter a coficient of x^2'))
 b=float(input('enter a coficient of x'))
 c=float(input('enter a constant'))
