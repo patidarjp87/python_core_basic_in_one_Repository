@@ -1,3 +1,4 @@
+
 s1=float(input('enter marks of 1st subject'))
 s2=float(input('enter marks of 2nd subject'))
 s3=float(input('enter marks of 3rd subject'))
