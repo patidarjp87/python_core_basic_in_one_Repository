@@ -1,3 +1,4 @@
+
 N=int(input('enter a no.'))
 print("\nfirst",N,"even natural no. are")
 i=1
