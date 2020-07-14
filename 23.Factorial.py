@@ -1,3 +1,4 @@
+
 n=int(input('enter a no. for factorial'))
 f=1
 while n!=1:
