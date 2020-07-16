@@ -1,3 +1,4 @@
+
 print('program to print first N prime numbers')
 N=int(input('enter a value of N'))
 count=0
