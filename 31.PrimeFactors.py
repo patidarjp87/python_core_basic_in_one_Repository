@@ -1,3 +1,4 @@
+
 print('program to print all prime factors of a no. n \n enter a value of n')
 n=int(input())
 print(1,end=' ')
