@@ -19,3 +19,5 @@ while i<=n:
 print("product is",n,"even natural no. is",sum)
 input("pree enter to exit")
 
+
+
