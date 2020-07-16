@@ -1,3 +1,4 @@
+
 print('numbers which do not have any common factor between them,are called co-prime factors')
 print('enter a value of a and b')
 a=int(input())
