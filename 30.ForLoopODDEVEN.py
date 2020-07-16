@@ -1,3 +1,4 @@
+
 print('first n odd natural no. in reverse order using range\nenter a value of n')
 n=int(input())
 m=2*n-1
