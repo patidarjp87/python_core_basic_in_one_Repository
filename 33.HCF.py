@@ -1,3 +1,4 @@
+
 print('HCF of two no. is the largest number that divides both of them')
 print('LCM of two numbers a and b \n enter a numbers')
 a=int(input())
