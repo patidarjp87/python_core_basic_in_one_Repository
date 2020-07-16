@@ -1,3 +1,4 @@
+
 n=int(input('enter a no.'))
 if n==0:
  n=n+1   
