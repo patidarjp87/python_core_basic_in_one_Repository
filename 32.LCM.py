@@ -1,3 +1,4 @@
+
 print('LCM of two numbers a and b \n enter a numbers')
 a=int(input())
 b=int(input())
