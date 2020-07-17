@@ -1,3 +1,4 @@
+
 print("sun of all even no. and sum of all odd no\n Enter a list")
 l=eval(input())
 even=0
