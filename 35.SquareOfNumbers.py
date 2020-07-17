@@ -1,3 +1,4 @@
+
 print("print Square of numbers from a to b\n enter values of a and b")
 a=int(input())
 b=int(input())
