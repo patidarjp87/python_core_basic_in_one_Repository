@@ -1,3 +1,4 @@
+
 print('program to print indices of all occurence of a given element in a given list\n Enetr a list')
 l=eval(input())
 e=eval(input('enter a element'))
