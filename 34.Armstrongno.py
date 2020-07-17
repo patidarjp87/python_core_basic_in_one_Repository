@@ -1,3 +1,4 @@
+
 print("program to print armstrong no. under 1000")
 input('press enter to print')
 for x in range(1,1000):
