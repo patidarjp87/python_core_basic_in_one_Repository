@@ -1,3 +1,4 @@
+
 print('program to print list of first n prime no.\n enter a no n=')
 n=int(input())
 l=[]
