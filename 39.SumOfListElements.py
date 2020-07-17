@@ -1,3 +1,4 @@
+
 print('program to sum of all ekements of a list enter a list')
 l=eval(input())
 sum=0
