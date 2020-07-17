@@ -1,3 +1,4 @@
+
 print('program to print square of first n natural no.\n enter value of n')
 n=int(input())
 l=[]
