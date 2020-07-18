@@ -1,3 +1,4 @@
+
 print("program to count char in a given string \n Enter a string")
 s=input()
 count=0
