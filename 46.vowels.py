@@ -1,3 +1,4 @@
+
 print('program to count vowels in a given string\n Enter a string')
 s=str(input())
 count=0
