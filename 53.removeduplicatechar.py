@@ -1,3 +1,4 @@
+
 print("program to remove duplicate character in a given string\n Enter a string")
 s=input()
 s1=input('press enter to conitnue program')
