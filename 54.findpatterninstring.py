@@ -1,3 +1,4 @@
+
 print('program to find pattern in given string \n Enter a string')
 s=input()
 l=len(s)
