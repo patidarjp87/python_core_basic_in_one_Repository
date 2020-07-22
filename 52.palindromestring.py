@@ -1,3 +1,4 @@
+
 print('program to print whether a given string palindrome or not \n Enter a string')
 s=input()
 i=0
