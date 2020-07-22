@@ -1,3 +1,4 @@
+
 print("program to create tuples with homogeneous elements from a tuple containing heterogeneous elements\n Enter a heterogeneous tuple")
 p=eval(input())
 t1=tuple()
