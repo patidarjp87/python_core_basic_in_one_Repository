@@ -1,3 +1,4 @@
+
 print('program to calculate average of all tuple elements \n Enter a tuple')
 p=eval(input())
 sum=0
