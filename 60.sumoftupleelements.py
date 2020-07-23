@@ -1,3 +1,4 @@
+
 print("program to sum elements of a tuple\n Enter a tuple")
 p=eval(input())
 sum=0
