@@ -1,3 +1,4 @@
+
 print("program to calculate frequency of elements of tuple \n Enter a tuple")
 t=eval(input())
 fr=0
