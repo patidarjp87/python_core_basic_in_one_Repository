@@ -1,3 +1,4 @@
+
 print("program to create set of first n prime no\n Enter n=")
 n=int(input())
 count=0
