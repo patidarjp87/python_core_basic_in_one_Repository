@@ -1,6 +1,5 @@
 
-print("program to create tuples with homogeneous elements from a tuple containing heterogeneous elements\n Enter a heterogeneous tuple")
-p=eval(input())
+print("program to create tuples with homogeneous elements from a tuple containing heterogeneous elements\n Enter a heterogeneous tuple")p=eval(input())
 t1=tuple()
 t2=tuple()
 t3=tuple()
