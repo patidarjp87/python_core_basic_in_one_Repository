@@ -1,3 +1,4 @@
+
 print("script to ciunt words in a given string \n Takes somthing returns something\n Enter a string")
 s=input()
 def count(s):
