@@ -1,3 +1,4 @@
+
 print("script to print first n prime no. \n Takes something returns nothing\n Enter n")
 n=int(input())
 def prime(n):
