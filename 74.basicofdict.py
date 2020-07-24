@@ -1,3 +1,4 @@
+
 print("basic program of dict learn how to take input from user")
 n=int(input('Enter.....how many pairs do you want to store...?\n'))
 l=[]
