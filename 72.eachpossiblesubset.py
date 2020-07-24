@@ -1,3 +1,4 @@
+
 print("program to print all possible subset of r elements from a given set of n elements ")
 s1=set([eval(x) for x in input('enter elements for set 1 as it is as you want to see in your set with separator space\n').split()])
 r=int(input('enter r =\n'))
