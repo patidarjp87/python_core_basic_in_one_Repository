@@ -1,3 +1,4 @@
+
 print("script to calculate LCM of two no. using takes something returns somthing function")
 l=[int(x) for x in input("enter two numbers by separator space").split()]
 def LCM(a,b):
