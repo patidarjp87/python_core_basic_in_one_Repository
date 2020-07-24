@@ -1,3 +1,4 @@
+
 print("script to find reverse binary representation of a given no\n takes something returns something\n Enter a no.")
 n=int(input())
 def binary(j):
