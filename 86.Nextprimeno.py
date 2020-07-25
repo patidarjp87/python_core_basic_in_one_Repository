@@ -1,3 +1,4 @@
+
 print("program to print next prime no. of a given no. \n Takes something returns something\n Enter a no.")
 n=int(input())
 def nextprime(n):
