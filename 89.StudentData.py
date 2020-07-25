@@ -1,3 +1,4 @@
+
 print('Enter name ,age,sem,branch respectively as a list')
 n,a,s,b=eval(input())
 class student :
