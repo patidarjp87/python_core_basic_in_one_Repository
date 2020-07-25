@@ -1,3 +1,4 @@
+
 print("define a class Employee")
 class Employee:
     def __init__(self,id,n,s):
