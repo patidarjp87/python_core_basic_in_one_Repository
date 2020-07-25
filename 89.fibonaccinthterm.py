@@ -1,3 +1,4 @@
+
 print("function to find nth term of fibonacci series \n Takes something returns something")
 n=int(input('Enter n =  '))
 def fibonacci(n):
