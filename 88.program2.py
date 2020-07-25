@@ -1,3 +1,4 @@
+
 print("script to write a function which takes a tuple of int values and returns a dict whose key are tuples value and values are frequency of ecah key in the tuple\n Takes tuple returns dict")
 def fun(t):
     d={}
