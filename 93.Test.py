@@ -1,3 +1,4 @@
+
 class test:
    def f(self):
        print('normal f')
