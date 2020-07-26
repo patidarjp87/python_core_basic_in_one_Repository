@@ -1,3 +1,4 @@
+
 print('script of Exception handling user defined Exception our raise default except our message')
 class InsufficientBalance(ZeroDivisionError):
     def __init__(self,m):
