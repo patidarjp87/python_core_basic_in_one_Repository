@@ -1,3 +1,4 @@
+
 print('script of Exception handling default raise our except')
 x=int(input('enter first no'))
 y=int(input('enter first no'))
