@@ -1,3 +1,4 @@
+
 print("define a class book to stoe book related info like bookid,title,price,author,publisher also define related functions")
 class Book:
     def setBook(self):
