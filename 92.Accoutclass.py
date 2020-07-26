@@ -1,3 +1,4 @@
+
 print("define a class Account with static variable rate of interest ,instance variable balance and accounr no.make function to set them")
 class Account:
     def setAccount(self,a,b,rate):
