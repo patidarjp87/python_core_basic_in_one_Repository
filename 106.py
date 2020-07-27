@@ -1,3 +1,4 @@
+
 print('script to learn multiple and hierarchy inheritance')
 class A:
     def __init__(self,a):
