@@ -1,3 +1,4 @@
+
 class test :
     a=19
     def __init__(self):
