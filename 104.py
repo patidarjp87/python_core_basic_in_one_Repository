@@ -1,3 +1,4 @@
+
 print('static member name conflict')
 class Base:
     def f1(self):
