@@ -1,3 +1,4 @@
+
 print('Basics of inheritance')
 class person:
     def __init__(self,n,a):
