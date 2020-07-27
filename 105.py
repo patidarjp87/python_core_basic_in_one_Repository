@@ -1,3 +1,4 @@
+
 class base:
     @staticmethod
     def f1():
